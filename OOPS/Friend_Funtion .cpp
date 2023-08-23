@@ -15,22 +15,22 @@
 //        friend void ankush(raj r);
   
 // };
-// void ankush(raj r)
+// void Ram(raj r)
 // {
-//         cout<<"i am ankush now i Watching "<<r.tv;
+//         cout<<"i am Ram now i Watching "<<r.tv;
 // }
 // int main() {
  
 //  raj a;
 //  a.show();
-//  ankush(a);
+//  Ram(a);
  
  
  
 //     return 0;
 // }
 
-EXAMPLE 2 :
+// EXAMPLE 2 :
 
 // Online C++ compiler to run C++ program online
 #include <iostream>
